@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A9:F5:47:47:2D:0F:6F:29:93:EF:2B:49:E3:96:60:A2:36:3F:58:86%3Bcom.example.boris.spring_media_apps
+
+    You can also add your credentials to an existing key, using this line:
+    A9:F5:47:47:2D:0F:6F:29:93:EF:2B:49:E3:96:60:A2:36:3F:58:86;com.example.boris.spring_media_apps
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        YOUR_KEY_HERE
+    </string>
+</resources>
