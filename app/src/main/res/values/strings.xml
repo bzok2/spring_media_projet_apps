@@ -1,4 +1,19 @@
 <resources>
-    <string name="app_name">Spring_media_Apps</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">Good Tips</string>
+    <string name="title_activity_maps">MAP</string>
+    <string name="title_activity_login">Get started !</string>
+    <string name="title_activity_Auth">Authentification</string>
+    <string name="title_activity_premium">Select Offer !!!</string>
+
+    <string name="login">SIGN UP</string>
+    <string name="signup">LOG IN</string>
+    <string name="forgot">Forgot Password ?</string>
+    <string name="facebook">LOG IN WITH FACEBOOK</string>
+    <string name="twitter">LOG IN WITH TWITTER</string>
+    <string name="free">COMMENCEZ L\'OFFRE GRATUITE</string>
+    <string name="premium">COMMENCEZ L\'OFFRE PREMIUM</string>
+    <string name="textFree">Offre grature 0€ dash dash dash </string>
+    <string name="textPremium">offre premium 9.99€ dash dash dash</string>
+    <string name="parametreUtil">inscription à la newsletter.</string>
+    <string name="next">Suivant</string>
 </resources>
